@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: 'https://swsxk2sh-3000.use2.devtunnels.ms/api',
+    baseURL: 'https://productivity-app-backend.netlify.app/api',
     withCredentials: true
 })
 
